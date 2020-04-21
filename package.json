@@ -1,0 +1,32 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "realtime chat app with rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "Núria C. Odena"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncodena/Realtime-Chat.git"
+  },
+  "keywords": [
+    "socket.io",
+    "Node",
+    "Express"
+  ],
+  "author": "Núria C. Òdena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncodena/Realtime-Chat/issues"
+  },
+  "homepage": "https://github.com/ncodena/Realtime-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
