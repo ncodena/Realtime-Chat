@@ -1,6 +1,6 @@
 const users = [];
 
-// Jpin user to chat
+// Join user to chat
 
 function userJoin(id, username, room) {
 
